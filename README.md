@@ -18,3 +18,5 @@ When you capture your ideas, notes, quotes, and resources in a hierarchical data
 6. **Retrieve pages**: In Notion, create a new database view with a filter for "Today's idea: checked" or just use a sort to make the marked pages appear at the top of your current database view.
 
 7. **Customization**: You can customize the code as you like e.g. change the property name of "Today's idea" to something else, just make sure you change the property name everywhere in the code as well or the script won't work as desired.
+
+That's it! With these simple steps, you'll be on your way to rediscovering old ideas and finding new inspiration in your Notion database.
