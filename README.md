@@ -1,5 +1,5 @@
 # Notion Random Note Generator #
-This integration allows you to randomly resurface old ideas from your Notion database, helping you to review them and understand them in a new way. It's inspired by the concept of serendipity from the book "Where Good Ideas Come from: The Natural History of Innovation" by Steven Johnson.
+This integration allows you to randomly resurface old ideas from your Notion database (of any size), helping you to review them and understand them in a new way. It's inspired by the concept of serendipity from the book "Where Good Ideas Come from: The Natural History of Innovation" by Steven Johnson.
 
 ## Motivation ##
 When you capture your ideas, notes, quotes, and resources in a hierarchical database like Notion, it's easy to get stuck in the same patterns of thinking and miss out on serendipitous connections between ideas. The ability to filter content further narrows your perspective and limits your creative output. The purpose of this script is to randomly bring back serendipity to your note taking system by resurfacing old ideas from your database and providing you with an opportunity to review them with fresh eyes.
